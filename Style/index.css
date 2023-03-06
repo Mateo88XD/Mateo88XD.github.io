@@ -1,0 +1,46 @@
+*{
+    font-family: cursive;
+    box-sizing: border-box;
+}
+.Aling{/* AFECTA LAS SECCIONES*/
+    display: flex;
+}
+
+#InfoP{ /* AFECTA A LA SECCION PERSONAL */
+    background-color: #084c41;
+    width: 300px;
+    text-align: center;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#InfoJ{ /* AFECTA A LA SECCIOIN PROFECIONAL*/
+    padding-left: 10px;
+}
+
+
+p,h3,h4{
+    text-align: left;
+}
+
+h4{
+    opacity: 0.6;
+}
+
+.Redondeado{ /* AFECTA A LA IMAGEN DEL AUTOR */
+    width: 166px;
+    height: 166px;
+    border-radius: 83px;
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 25px;
+}
+
+#Nombre{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+
